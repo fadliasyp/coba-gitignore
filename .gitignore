@@ -1,0 +1,8 @@
+# mendaftarkan file2 yang rngga mau kita bawa/push
+# nama filenya/ folder :
+config.txt
+data/
+
+# engga mau semua file berbentuk exe dipush
+*.exe
+
